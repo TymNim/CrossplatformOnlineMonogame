@@ -1,2 +1,15 @@
 # CrossplatformOnlineMonogame
-Edit description
+
+## This game was created as Major Assignment for my Game Programming course.
+
+### Client side application was created with C# and MonoGame Framework. To run the server I used NodeJS.
+
+![Game Screen](https://github.com/TymNim/CrossplatformOnlineMonogame/blob/master/gameplayScreen.png)
+
+#### References 
+Thanks dafont.com for publishing this font
+https://www.dafont.com/olde-english.font
+Thanks opengameart.org copmmunity for publishing audio ang images
+https://opengameart.org/content/ui-button
+https://opengameart.org/content/mini-knight
+https://opengameart.org/content/battle-theme
