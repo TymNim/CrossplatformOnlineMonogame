@@ -1,4 +1,4 @@
-# CrossplatformOnlineMonogame
+# Cross-Platform Online Monogame with NodeJS Server side game
 
 ## This game was created as Major Assignment for my Game Programming course.
 
