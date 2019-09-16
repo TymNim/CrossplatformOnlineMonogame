@@ -10,7 +10,7 @@
 Thanks dafont.com for publishing this font
 https://www.dafont.com/olde-english.font
 
-Thanks opengameart.org copmmunity for publishing audio ang images
+Thanks opengameart.org community for publishing audio files ang images
 https://opengameart.org/content/ui-button
 https://opengameart.org/content/mini-knight
 https://opengameart.org/content/battle-theme
